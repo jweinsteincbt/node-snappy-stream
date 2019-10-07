@@ -66,7 +66,7 @@ world
 
 ## Running tests
 
-The tests are using the [https://pypi.python.org/pypi/python-snappy](python-snappy) library, so you need to install that first for it to work:
+The tests are using the https://pypi.python.org/pypi/python-snappy library, so you need to install that first for it to work:
 
 ```
 [sudo] pip install python-snappy
